@@ -11,3 +11,7 @@ Configure everything you need in addons/anotherulxsbanmodule/lua/ulx/modules/sba
 4) Added the server to SourceBans and added the variable (with the serverID) ulx_sban_serverid to the server.cfg.
 
 Should see the following :   [MYSQL] Connected user:db@ip:port successfully.
+
+
+Edit the following to correct sql settings:
+addons/anotherulxsbanmodule/lua/ulx/modules/sban.lua
