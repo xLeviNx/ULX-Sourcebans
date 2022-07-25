@@ -14,4 +14,4 @@ Should see the following :   [MYSQL] Connected user:db@ip:port successfully.
 
 
 Edit the following to correct sql settings:
-addons/anotherulxsbanmodule/lua/ulx/modules/sban.lua
+>addons/anotherulxsbanmodule/lua/ulx/modules/sban.lua
